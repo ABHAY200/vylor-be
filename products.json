@@ -1,47 +1,47 @@
 [
   {
     "id": 1,
-    "name": "Floral Printed Churidar Material",
+    "name": "Purple Churidhar set",
     "fabric": "Cotton",
-    "color": "Pink",
-    "price": 1299,
+    "color": "Purple",
+    "price": 1290,
     "lengthMeters": 4.5,
     "occasion": "Casual",
     "inStock": true,
-    "image": "https://raw.githubusercontent.com/USERNAME/fashion-studio-api/main/images/churidar_01.jpg"
+    "image": "https://github.com/ABHAY200/vylor-be/blob/main/product-images/churidar_7994.jpg?raw=true"
   },
   {
     "id": 2,
-    "name": "Elegant Rayon Churidar Set",
+    "name": "Elegant Green Churidar Set",
     "fabric": "Rayon",
-    "color": "Navy Blue",
-    "price": 1599,
+    "color": "Green",
+    "price": 1499,
     "lengthMeters": 5,
-    "occasion": "Office Wear",
+    "occasion": "Casual",
     "inStock": true,
-    "image": "https://raw.githubusercontent.com/USERNAME/fashion-studio-api/main/images/churidar_02.jpg"
+    "image": "https://github.com/ABHAY200/vylor-be/blob/main/product-images/churidar_7996.jpg?raw=true"
   },
   {
     "id": 3,
-    "name": "Printed Cotton Churidar Material",
+    "name": "Dark Blue Churidar Material",
     "fabric": "Cotton",
-    "color": "Yellow",
-    "price": 1199,
+    "color": "Blue",
+    "price": 1190,
     "lengthMeters": 4,
     "occasion": "Daily Wear",
     "inStock": true,
-    "image": "https://raw.githubusercontent.com/USERNAME/fashion-studio-api/main/images/churidar_03.jpg"
+    "image": "https://github.com/ABHAY200/vylor-be/blob/main/product-images/churidar_7997.jpg?raw=true"
   },
   {
     "id": 4,
-    "name": "Festive Silk Blend Churidar",
+    "name": "Green Churidar",
     "fabric": "Silk Blend",
-    "color": "Maroon",
-    "price": 2199,
+    "color": "Green",
+    "price": 1090,
     "lengthMeters": 5.5,
     "occasion": "Festive",
     "inStock": false,
-    "image": "https://raw.githubusercontent.com/USERNAME/fashion-studio-api/main/images/churidar_04.jpg"
+    "image": "https://github.com/ABHAY200/vylor-be/blob/main/product-images/churidar_7998.jpg?raw=true"
   },
   {
     "id": 5,
